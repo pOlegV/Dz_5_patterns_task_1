@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/y0c7nb4qdu69cdyc?svg=true)](https://ci.appveyor.com/project/pOlegV/dz-5-patterns-task-1)
